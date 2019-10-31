@@ -8,3 +8,4 @@ Completed Labs for Vini Tripathii
 4. [Vini Tripathii Lab 4](//github.com/ut33/IDD-Fa19-Lab4)
 5. [Vini Tripathii Lab 5](//github.com/ut33/IDD-Fa19-Lab5)
 6. [Vini Tripathii Lab 6](//github.com/ut33/IDD-Fa19-Lab6)
+7. [Vini Tripathii Lab 7](//github.com/ut33/IDD-Fa19-Lab7)
